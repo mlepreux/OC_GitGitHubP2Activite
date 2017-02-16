@@ -1,4 +1,9 @@
+<?PHP
 /* tests unitaires de la classe métier MyObject */
+
+include ( DAL_DIR.'MyObjectDal.inc.php );
+
+
 
 Class MyObjectUT
 {

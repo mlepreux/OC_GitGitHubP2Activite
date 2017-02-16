@@ -1,1 +1,11 @@
-"/* Classe de modäle pour l'object MyObject */" 
+<?PHP
+/* Classe de modËle pour l'object MyObject */
+
+include ( DAL_DIR.'MyObjectDal.inc.php );
+
+Class MyObject
+{
+function a()
+{...}
+....
+}
